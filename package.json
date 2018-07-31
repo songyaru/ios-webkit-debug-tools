@@ -1,0 +1,23 @@
+{
+  "name": "ios-webkit-debug-tools",
+  "version": "1.0.0",
+  "description": "ios webkit debug tools for remote debugging",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "ios-webkit-debug",
+    "remote debugging"
+  ],
+  "author": "songyaru",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/songyaru/ios-webkit-debug-tools.git"
+  },
+  "dependencies": {
+    "get-port": "^4.0.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {}
+}
